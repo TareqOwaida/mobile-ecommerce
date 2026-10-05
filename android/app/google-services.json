@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "388318558178",
+    "project_id": "tareq-546c1",
+    "storage_bucket": "tareq-546c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388318558178:android:a7adad294fd29db4fbebbb",
+        "android_client_info": {
+          "package_name": "com.example.firebaselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388318558178-sgc2sf1dgse1l4c5nmfqn6uec1mm9u53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselearning",
+            "certificate_hash": "2f11a95802338a95f0342166d4b9ae89f6fe7e12"
+          }
+        },
+        {
+          "client_id": "388318558178-14nlofjs1jh5valvm2eu4ol1g267796b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITkWQse8FKyz9Kimk519rDKQ4lZN2n4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388318558178-14nlofjs1jh5valvm2eu4ol1g267796b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

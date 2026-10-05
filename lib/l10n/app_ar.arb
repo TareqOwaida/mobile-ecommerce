@@ -1,0 +1,17 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تعلّم فايربيز",
+  "login": "تسجيل الدخول",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "enterYourEmail": "أدخل بريدك الإلكتروني",
+  "enterYourPassword": "أدخل كلمة المرور",
+  "pleaseEnterYourEmail": "يرجى إدخال البريد الإلكتروني",
+  "pleaseEnterValidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+  "pleaseEnterYourPassword": "يرجى إدخال كلمة المرور",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "ok": "حسنًا",
+  "signUp": "إنشاء حساب",
+  "loginWithGoogle": "تسجيل الدخول باستخدام Google",
+  "dontHaveAccount": "ليس لديك حساب؟"
+}
